@@ -9,7 +9,8 @@ body {
 
     background-color: grey;
     width: 80%;
-    margin: auto;
+    margin: 10% auto auto auto;
+
 
 }
 
@@ -26,9 +27,8 @@ body {
     display: flexbox;
     justify-content: center;
     margin: 5px;
-    padding: 5vh;
-    height: 3vh;
-    width: 3vh;
+    height: 5vh;
+    width: 5vh;
 
 }
 
