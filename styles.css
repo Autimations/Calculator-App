@@ -27,15 +27,15 @@ body {
     display: flexbox;
     justify-content: center;
     margin: 5px;
-    height: 3vh;
-    width: 3vh;
+    height: 5vh;
+    width: 5vh;
 
 }
 
 .operations{
     font-weight: bold;
-    height: 10vh;
-    width: 10vh;
+    height: 6vh;
+    width: 6vh;
     margin: 5px;
 
 
