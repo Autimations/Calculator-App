@@ -1,13 +1,13 @@
 body {
 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: aquamarine;
+    background-color: rgb(90, 255, 200);
 
 }
 
 #calculator{
 
-    background-color: grey;
+    background-color: rgb(195, 195, 195);
     width: 80%;
     margin: 10% auto auto auto;
 
@@ -18,7 +18,7 @@ body {
 
     text-align: right;
     padding-right: 20px;
-    background-color: aliceblue;
+    background-color: white;
 
 }
 
@@ -27,8 +27,8 @@ body {
     display: flexbox;
     justify-content: center;
     margin: 5px;
-    height: 10vh;
-    width: 10vh;
+    height: 8vh;
+    width: 8vh;
 
 }
 
